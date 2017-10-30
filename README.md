@@ -1,2 +1,2 @@
-# letschat-operator-irc
-Operator transport layer for Let's Chat to integrate with IRC
+# Minimal Chat operator IRC integration
+Operator transport layer for Minimal Chat to integrate with IRC
